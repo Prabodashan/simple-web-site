@@ -1,0 +1,97 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height:1.7em;
+}
+body {
+	background-color: #FFF;
+}
+a {
+	font-size: 14px;
+	color: #03F;
+}
+a:link {
+	text-decoration: none;
+	color: black;
+}
+a:visited {
+	text-decoration: none;
+	color: #03F;
+}
+a:hover {
+	text-decoration: none;
+	color: green;
+
+}
+a:active {
+	text-decoration: none;
+	color: #03F;
+}
+
+#pageHeader {
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	background-image: url(../images/1.jpg);
+	width:900px;
+	height: 500px;
+
+}
+#pageContent {
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	width:900px;
+
+}
+#pageFooter {
+	border:#999 1px solid;
+	background-color:#F4F4F4;
+	width:900px;
+
+}
+#pageHeader ul{
+	margin: 0px ;
+	padding: 0px;
+	list-style: none;
+
+
+}
+#pageHeader ul li {
+	float: left;
+	width: 218px;
+	height: 30px;
+	background-color: black;
+	opacity: 0.8;
+	line-height: 30px;
+	text-align: center;
+}
+
+#pageHeader ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+#pageHeader ul li a:hover{
+	background-color: green;
+}
+#pageHeader ul li ul li{
+	display: none;
+}
+#pageHeader ul li:hover ul li{
+	display: block;
+}
+input,select{
+    height:40px;
+    width: 400px;
+    font-size: 15;
+}
+table{
+
+    text-align: center;
+}
+
+tr{
+    height: 50px;
+}

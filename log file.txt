@@ -1,0 +1,6 @@
+prabod	Wlectricity Bill 	1500
+fff	Water Bill 	1500
+fff	Mobile Bill 	1500
+prabod	Wlectricity Bill 	1000
+prabod	Water Bill 	1500
+prabod	Mobile Bill 	15000
